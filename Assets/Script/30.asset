@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77b69c663a39f304e9f269ef948fb272, type: 3}
+  m_Name: 30
+  m_EditorClassIdentifier: 
+  textoNarrativo: "GRAN SABIO: \"Estoy harto de tu maldita actitud \xBF Donde esta
+    ese peque\xF1o abandonado y hambriento de cabellera roja y mirada vac\xEDa que
+    salve hace 40 a\xF1os ?\n\xA1\xBF Donde est\xE1 tu maldito odio hacia el Gran
+    Jefe por todo el da\xF1o que nos ha causado a todos nosotros ?!\""
+  respuestaUno: '"Voy a matar cada parte del Gran Jefe"'
+  respuestaDos: "\"No s\xE9 que hacer\""
+  arrayReferencias: 1f0000001f000000
+  quitaBotones: 0
+  quitaBotones1: 0

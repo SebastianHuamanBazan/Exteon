@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77b69c663a39f304e9f269ef948fb272, type: 3}
+  m_Name: 33
+  m_EditorClassIdentifier: 
+  textoNarrativo: "GRAN SABIO: \"Todo este sufrimiento terminar\xE1, te lo aseguro.\nTenemos
+    poco tiempo.\nT\xFA Brave, General del Ej\xE9rcito Supremo, y yo El Gran Sabio,
+    Consejero Supremo, comenzaremos una nueva aventura\n\xA1\xBF Est\xE1s listo,
+    peque\xF1o Brave ?\xA1\""
+  respuestaUno: "Matar al GRAN SABIO introduciendo la espada F\xE9nix en su coraz\xF3n"
+  respuestaDos: ' "Estoy contigo GRAN SABIO, cambiaremos el universo "'
+  arrayReferencias: 2200000023000000
+  quitaBotones: 0
+  quitaBotones1: 0

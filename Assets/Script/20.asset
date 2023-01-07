@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77b69c663a39f304e9f269ef948fb272, type: 3}
+  m_Name: 20
+  m_EditorClassIdentifier: 
+  textoNarrativo: "GRAN SABIO: \"\"Yo no quer\xEDa que vieras eso Brave, pero tenia
+    que hacerlo\"\nBRAVE: \"Mi hijo estaba destinado a  matar al Gran Jefe y liberarnos
+    a todos\""
+  respuestaUno: "\"\xA1\xBF Porqu\xE9 lo hiciste ?! \xA1\xBF Dime porqu\xE9 ?!\""
+  respuestaDos: '"Ya no puedo seguir Estoy muerto en vida"'
+  arrayReferencias: 1500000015000000
+  quitaBotones: 0
+  quitaBotones1: 0

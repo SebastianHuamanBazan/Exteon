@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77b69c663a39f304e9f269ef948fb272, type: 3}
+  m_Name: 32
+  m_EditorClassIdentifier: 
+  textoNarrativo: "GRAN SABIO: \"Yo ser\xE9 diferente. Este Gran Jefe es una mentira.
+    No es el patriarca de la humanidad, El no recibi\xF3 la ayuda del Supremo Se\xF1or.\nDespu\xE9s
+    del Apocalipsis, el viol\xF3 a mi  hija, a su propia sobrina, para engendrar
+    a toda su descendencia\nLo hizo porque tuvo el poder y ahora ese poder nos esta
+    atormentado\n\xA1 Entiende eso, maldita sea !"
+  respuestaUno: " Levantarse r\xE1pidamente y coger la espada F\xE9nix"
+  respuestaDos: " Levantarse lentamente y coger la espada F\xE9nix"
+  arrayReferencias: 2100000021000000
+  quitaBotones: 0
+  quitaBotones1: 0

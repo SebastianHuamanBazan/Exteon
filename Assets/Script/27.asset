@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77b69c663a39f304e9f269ef948fb272, type: 3}
+  m_Name: 27
+  m_EditorClassIdentifier: 
+  textoNarrativo: "GRAN SABIO: \"Yo te ense\xF1e todo lo que sabes\"\nBRAVE: \xA1
+    Muere de una maldita vez !\nGRAN SABIO: \"No, con esos golpes no llegar\xE1s
+    nada\n\xA1 Aprender\xE1s con esta patada !\"\nBRAVE: \xA1 Ahhh !\nGRAN SABIO:
+    Te dar\xE9 una ultima oportunidad\n"
+  respuestaUno: No creo nada de los dices
+  respuestaDos: "No s\xE9 que creer"
+  arrayReferencias: 1c0000001c000000
+  quitaBotones: 0
+  quitaBotones1: 0

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77b69c663a39f304e9f269ef948fb272, type: 3}
+  m_Name: 25
+  m_EditorClassIdentifier: 
+  textoNarrativo: "GRAN SABIO: \xBF Ahora si quieres matarme ?\nBRAVE: \xA1 Has destruido
+    mi vida ! \xA1 \xC9l era todo lo que ten\xEDa !\nGRAN SABIO: El Gran Jefe orden\xF3
+    a Hope que te matara. El se hab\xEDa enterado de los planes de la Rebeli\xF3n.
+    Sabia que hoy iban a luchar por su liberaci\xF3n\n\xA1Entiende eso, maldita sea\nBRAVE:
+    \xA1 No es posible !"
+  respuestaUno: Coger y lanzar la espada hacia el Gran Sabio
+  respuestaDos: Levantarse para pelear
+  arrayReferencias: 1a0000001b000000
+  quitaBotones: 0
+  quitaBotones1: 0

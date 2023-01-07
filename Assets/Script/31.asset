@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77b69c663a39f304e9f269ef948fb272, type: 3}
+  m_Name: 31
+  m_EditorClassIdentifier: 
+  textoNarrativo: "GRAN SABIO: \"El poder lo es todo, peque\xF1o Brave\nEsto es lo
+    que har\xE1s\nNo matar\xE1s al Gran Jefe porque lo necesito vivo para ser yo
+    el nuevo Gran Jefe\nTu reemplazar\xE1s mi lugar como Consejero Supremo y juntos
+    controlaremos cada part\xEDcula del universo para asegurar el orden de las cosas\"\nBRAVE:
+    Esto no era por lo que me un\xED a la Rebeli\xF3n\n\xA1Todos ansiamos la libertad
+    total sin la existencia de un Gran Jefe!\nT\xFA mismo lo sabes\n\xA1 Porque t\xFA
+    has creado la Rebeli\xF3n !"
+  respuestaUno: Mirar fijamente al Gran Sabio
+  respuestaDos: 
+  arrayReferencias: 2000000020000000
+  quitaBotones: 0
+  quitaBotones1: 0

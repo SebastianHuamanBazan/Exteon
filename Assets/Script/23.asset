@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77b69c663a39f304e9f269ef948fb272, type: 3}
+  m_Name: 23
+  m_EditorClassIdentifier: 
+  textoNarrativo: "GRAN SABIO: \"No le has quitado el seguro a la granada. Eso nunca
+    va a explotar\nT\xFA eras un hombre de palabra\n\xA1 Dijiste que no ibas a utilizar
+    armas !\nVeamos, te ense\xF1are como usar una pistola\"\nBRAVE: \xA1 Ahhh ! \xA1
+    Mi pierna ! \xA1 Nooo !"
+  respuestaUno: "Tienes raz\xF3n he perdido el juicio"
+  respuestaDos: "\xBF Qu\xE9 me esta pasando ?"
+  arrayReferencias: 1800000018000000
+  quitaBotones: 0
+  quitaBotones1: 0

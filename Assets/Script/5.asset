@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77b69c663a39f304e9f269ef948fb272, type: 3}
+  m_Name: 5
+  m_EditorClassIdentifier: 
+  textoNarrativo: "\"Alguien debe haber sobrevivido.\nYo conf\xEDo en el Supremo
+    Se\xF1or\n\xA1 \xC9l debe de obrar un milagro por m\xED !\""
+  respuestaUno: Buscar intensamente entre los escombros y ruinas
+  respuestaDos: '"Ya no puedo seguir. Estoy muerto en vida"'
+  arrayReferencias: 0700000006000000
+  quitaBotones: 0
+  quitaBotones1: 0
